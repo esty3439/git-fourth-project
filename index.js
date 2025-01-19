@@ -1,3 +1,3 @@
 const func=(a,b)=>{
-    return a*b
+   console.log(a-b)
 }
